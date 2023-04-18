@@ -6,5 +6,7 @@
 
 print("blue")
 print("green")
-print("red")
+print("yellow")
+print("yellow")
+print("yellow")
 
